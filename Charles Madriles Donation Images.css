@@ -15,15 +15,8 @@ h1
     font-family:cursive;
 }
 
-
-
-
-
-
-
-
-
-h2{
+h2
+{
      color:gold;
     background-color: royalblue;
     margin-right: 40px;
@@ -34,8 +27,7 @@ h2{
     font-family:cursive;
 }
 h5
-{
-    
+{ 
     color:blueviolet;
    text-align: center; 
     margin-right: 40px;
@@ -47,16 +39,13 @@ h5
 }
 p
 {
-     
-    text-align: center; 
+     text-align: center; 
     margin-right: 40px;
         text-align:center;
         
         font-size:32px;
     font-family:monospace;
 }
-
-
 
 
 h3
